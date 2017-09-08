@@ -17,6 +17,6 @@ This tutorial assumes that you:
 4. Install Jupyter notebook kernel and matplotlib: `conda install nb_conda matplotlib`
 5. Deactivate conda environment: `source deactivate`
 
-## Download Data
+## Get Data
 1. Either clone this repo or go [here](https://github.com/zalandoresearch/fashion-mnist) and find the section entitled **Get the Data** located towards the middle.
 2. (Optional) If you chose to download from the website, download the training and test set images and labels. (note where you saved these files)
