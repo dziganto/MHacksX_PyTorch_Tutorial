@@ -15,6 +15,7 @@ This tutorial assumes that you:
 2. Activate conda environment: `source activate pytorch`
 3. Install PyTorch: `conda install pytorch torchvision -c soumith`
 4. Install Jupyter notebook kernel and matplotlib: `conda install nb_conda matplotlib`
+5. Deactivate conda environment: `source deactivate`
 
 ## Download Data
 1. Either clone this repo or go [here](https://github.com/zalandoresearch/fashion-mnist) and find the section entitled **Get the Data** located towards the middle.
