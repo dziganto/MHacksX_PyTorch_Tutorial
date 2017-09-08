@@ -6,11 +6,9 @@ To whet your appetite and to get you going in PyTorch, you will learn how to bui
 
 ## Preliminaries
 This tutorial assumes that you: 
-1. Use a Mac
-2. Have administrator privileges
-3. Installed [Anaconda](https://www.continuum.io/downloads) with Python 3.5+
-4. Updated conda with: `conda update conda`
-5. Have a basic understanding of Convolutional Neural Networks ([watch this video](https://www.youtube.com/watch?v=FmpDIaiMIeA)) 
+1. Installed [Anaconda](https://www.continuum.io/downloads) with Python 3.5+
+2. Updated conda with: `conda update conda`
+3. Have a basic understanding of Convolutional Neural Networks ([watch this video](https://www.youtube.com/watch?v=FmpDIaiMIeA)) 
 
 ## PyTorch Setup
 1. Create conda environment: `conda create --name pytorch numpy`
