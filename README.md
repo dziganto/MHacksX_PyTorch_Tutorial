@@ -1,4 +1,4 @@
-# MHacksX PyTorch Tutorial
+# MHacks X - Deep Learning Tutorial in PyTorch
 
 PyTorch is a powerful deep learning research platform that provides maximum flexibility and speed, and it allows you to replace numpy to use the power of GPUs. It is similar in some ways to Tensorflow but utilizes dynamic graphs. 
 
